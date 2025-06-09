@@ -1,29 +1,13 @@
-# 👋 Hi, I'm Rahaf — Passionate about AI for Real-World Impact
+# 👋 Hi, I'm Rahaf — AI Enthusiast Crafting Real-World Solutions
 
-I’m a fresh graduate in Artificial Intelligence from Princess Nourah University.
-I specialize in:
-- 🧠 Natural Language Processing (NLP)
-- 📊 Machine Learning & Deep Learning
-- 🛠️ Building AI tools that matter
+I’m a fresh graduate in Artificial Intelligence from Princess Nourah University with a passion for creating innovative, practical AI applications. My work spans across NLP, machine learning, and computer vision, with a focus on solving real problems using AI.
 
-Driven by curiosity and creativity, I enjoy solving real-world problems and turning them into intelligent solutions.
-
----
-
-### 🧮 My Interests
-- Information Retrieval Systems
-- Stress & Emotion Prediction
-- Gesture-based Control Interfaces
-- Video Summarization & Smart Automation
+- 🏆 Winner of multiple AI hackathons and competitions
+- 🚀 Developed projects in sentiment analysis, gesture control, and physical therapy AI
+- 🌍 Exploring AI solutions that make a tangible impact in healthcare, security, and more
 
 ---
 
 ### 💻 Tech Stack
-- Python | Jupyter | Scikit-learn | OpenCV
-- TensorFlow | PyTorch | Transformers (HuggingFace)
-- Flask | Git | Arduino (C++)
-
----
-
-### 📌 Featured Projects
-Check out the pinned repositories to see my work! I'm always open to collaboration and learning from others.
+- Python | TensorFlow | PyTorch | HuggingFace
+- Scikit-learn | OpenCV | Flask | Git
